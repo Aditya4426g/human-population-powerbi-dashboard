@@ -1,0 +1,10 @@
+# Windows temporary and thumbnail files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Power BI temp files & auto-recovery
+*.tmp
+*.~pbix
+*.pbix.backup
